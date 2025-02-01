@@ -81,6 +81,9 @@ function App() {
         <button onClick={handleStartQuiz}>Start Quiz</button>
       
     </div>
+    <footer className="footer">
+        <p>Made by Sai Iswarya  Kollipara | <a href="https://www.linkedin.com/in/sai-iswarya-kollipara-99679627a/" target="_blank" rel="noopener noreferrer">LinkedIn</a></p>
+      </footer>
 </div>
 
     );
