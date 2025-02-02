@@ -3,7 +3,7 @@ const API_URL =process.env.REACT_APP_API_URL || "/Uw5CrX";
 
 const fetchQuizData = async () => {
   try {
-    const response = await axios.get(API_URL); 
+    const response = await axios.get(API_URL,{mode:'cors'}); 
     console.log("API Response:", response); 
     return response.data; 
   } catch (error) {
