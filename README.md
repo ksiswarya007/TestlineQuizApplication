@@ -15,9 +15,10 @@ A dynamic web-based quiz app built with **React** and styled with **CSS**. The a
 
 
 ## Video Walkthrough
+https://github.com/user-attachments/assets/fcb818db-d61b-4974-a9b6-2714163cb216
 
 
-https://github.com/user-attachments/assets/c2e4d4d9-08f5-4f29-8f9f-be6bb5772cb6
+
 
 
 
