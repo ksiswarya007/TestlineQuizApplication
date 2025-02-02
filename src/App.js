@@ -142,7 +142,6 @@ function App() {
               <ul>
                 {data.questions.map((question) => {
                   const selectedAnswer = selectedAnswers[question.id];
-                  const correctOption = question.options.find(option => option.is_correct);
                   return (
                     <li key={question.id}>
                       <h4>{question.description}</h4>
