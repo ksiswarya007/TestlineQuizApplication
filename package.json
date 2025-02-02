@@ -12,7 +12,7 @@
   },
 
   "scripts": {
-  "start": "HOST=0.0.0.0 react-scripts start",  
+  "start": "react-scripts start",  
   "build": "react-scripts build",  
   "serve": "serve -s build",
   "test": "react-scripts test",
